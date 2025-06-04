@@ -43,7 +43,7 @@
 
 1.  **שכפל את ה-repository:**
     ```bash
-    git clone [https://github.com/Ayala-levi/github-portfolio-api.git](https://github.com/Ayala-levi/github-portfolio-api.git)
+    git clone [https://github.com/ChayaStraus/CV-Site.git](https://github.com/ChayaStraus/CV-Site.git)
     cd github-portfolio-api
     ```
 
