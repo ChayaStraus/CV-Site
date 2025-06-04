@@ -1,0 +1,67 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.config.user
+*.resharper
+*.resharper.user
+*.bak
+*.cache
+*.temp
+*.tmp
+*.log
+*.obj
+*.pdb
+*.orig
+*.opendata
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]estResults/
+*.exe
+*.dll
+*.mdb
+*.ilk
+*.idb
+*.pgm
+*.pgd
+*.psess
+*.vsp
+*.coverage
+*.vspscc
+*.vssscc
+*.scc
+
+# Package Manager (NuGet)
+packages/
+*.nupkg
+*.nuget.log
+
+# Intermediate files
+_ReSharper.*/
+[Pp]rofiler[Rr]eports/
+[Dd]otSettings/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Rider specific files
+.idea/
+
+# Editor specific files
+*.userprefs
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Mac OS files
+.DS_Store
+
+# ReSharper files
+*.DotSettings.user
+
+# Any other files that should not be committed
